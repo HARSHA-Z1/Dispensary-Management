@@ -1,1 +1,2 @@
 # Dispensary-Management
+This code is designed to facilitate the administration of drugs to the inhabitants of a specific area. It takes into account the availability, dosage, and interactions of the medications, as well as the medical history and needs of the patients. The code is concise, efficient, and reliable, and can be easily modified or updated as needed.
